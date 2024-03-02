@@ -1,0 +1,96 @@
+! Title: AdBlock Filters
+! Description: AdBlock Filters
+! Released: 20240302
+! Last modified: %timestamp%
+! Expires: 100 days
+! Homepage:
+! License: https://github.com/nguyenid/adblock/blob/main/LICENSE
+
+! bilutvb.net
+bilutvb.net##.abp-ballon
+bilutvb.net##.abp-header
+333xbet.com$media
+dataqq.net/v/tvc6688.mp4
+! cafedev.vn
+cafedev.vn##.fb_reset
+cafedev.vn##.td-scroll-up-visible
+cafedev.vn###divFLRALeft
+! chinese.com.vn
+chinese.com.vn##.fly-text-share
+! google.com
+drive.google.com##.xmQMab
+! fmoviesz.to
+fmoviesz.to##body::-webkit-scrollbar
+! motchilli.net
+motchilli.net##.block.tagcloud
+motchilli.net##.div-control
+motchilli.net##.film-note
+motchilli.net##.mp-adz
+motchilli.net##.trailer.block
+haivan.info$image
+haivan.top$image
+mpapis.xyz$media
+! msn.com
+msn.com##.mobilePWAGuideContainer-DS-EntryPoint1-1
+msn.com##.newsContent-DS-EntryPoint1-1
+msn.com###eplantEntranceBubble
+msn.com###WeatherTodayHistoryWC1
+! nytimes.com
+nytimes.com##+js(json-prune, data.user)
+nytimes.com###gateway-content
+! sachmoi.net
+sachmoi.net##.widget-area
+sachmoi.net##.boxzilla-container
+sachmoi.net##.code-block
+! ssi.com.vn
+iboard.ssi.com.vn##.absolute.-top-1
+iboard.ssi.com.vn###marquee-banner
+! subnhanh.moe
+subnhanh.moe##.abover-player
+subnhanh.moe##.under-player
+subnhanh.moe##.underplayer_btn
+subnhanh.moe###footer_fixed_ads
+subnhanh.moe###overlay
+subnhanh.moe###top_addd
+subnhanh.moe###xs-addd0
+ads.cdn2-img.net/logouk.png
+b52.club
+b52.mobi
+hitclub.win
+raw.githubusercontent.com/jamesbondazmto/*
+tvc.biphim.club/hitclub_v2.vtt
+vip79.win
+! tinhte.vn
+tinhte.vn##.jsx-4267282249.in-article-promo
+tinhte.vn##.jsx-3615196230.bg-white:first-child
+! tradingview.com
+tradingview.com/static/bundles/branding-source*.js
+tradingview.com##.counterRow-I_wb5FjE
+tradingview.com##.location-bottom-left-iQIIZOkP.toast-positioning-wrapper-iQIIZOkP
+tradingview.com##.location-bottom-left-uEa3054V.toast-positioning-wrapper-uEa3054V
+tradingview.com##.notifications-ShqWkm6L
+tradingview.com##.notifications-U2jIw4km.menuNotifications-U2jIw4km
+tradingview.com##.trial-notification-Z2cfQYdB
+tradingview.com##i.tv-header__icon--counter-red.js-notifications-indicator
+! vneconomy.vn
+vneconomy.vn##.carousel-hero
+vneconomy.vn##.qc
+vneconomy.vn##.site-header
+vneconomy.vn###advVip01Web
+! vnexpress.net
+vnexpress.net##.installvneapp
+vnexpress.net##.section.top-header
+vnexpress.net##.social_pin
+vnexpress.net##.width_common.list-news-subfolder.mb20
+vnexpress.net##.wrap-hd-adblock
+vnexpress.net###credential_picker_iframe
+vnexpress.net###detail_danhchoban
+vnexpress.net###g_id_onload
+! wetv.vip
+wetv.vip##.minipay-bg
+wetv.vip##.minipay-ifame
+wetv.vip##.modal__content
+wetv.vip##aside.sidebar
+puui.qpic.cn/vupload/$image
+! wikipedia.org
+wikipedia.org##.banner-container
