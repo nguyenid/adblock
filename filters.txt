@@ -3,7 +3,7 @@
 ! Released: 20240302
 ! Last modified: %timestamp%
 ! Expires: 100 days
-! Homepage:
+! Homepage: https://github.com/nguyenid/adblock
 ! License: https://github.com/nguyenid/adblock/blob/main/LICENSE
 
 ! bilutvb.net
@@ -56,6 +56,7 @@ subnhanh.moe###xs-addd0
 ads.cdn2-img.net/logouk.png
 b52.club
 b52.mobi
+b52.vin
 hitclub.win
 raw.githubusercontent.com/jamesbondazmto/*
 tvc.biphim.club/hitclub_v2.vtt
