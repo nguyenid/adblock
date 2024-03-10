@@ -55,6 +55,7 @@ subnhanh.moe###top_addd
 subnhanh.moe###xs-addd0
 ads.cdn2-img.net/logouk.png
 b52.club
+b52club.pro
 b52.mobi
 b52.vin
 hitclub.win
