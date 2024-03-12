@@ -47,6 +47,7 @@ iboard.ssi.com.vn##.absolute.-top-1
 iboard.ssi.com.vn###marquee-banner
 ! subnhanh.moe
 subnhanh.moe##.abover-player
+subnhanh.moe##.navbar
 subnhanh.moe##.under-player
 subnhanh.moe##.underplayer_btn
 subnhanh.moe###footer_fixed_ads
