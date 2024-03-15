@@ -35,6 +35,7 @@ msn.com##.mobilePWAGuideContainer-DS-EntryPoint1-1
 msn.com##.newsContent-DS-EntryPoint1-1
 msn.com##.WeatherRightRailRoot-DS-EntryPoint1-2
 msn.com###eplantEntranceBubble
+msn.com###WeatherRightRail-ScreenWidth-c4
 msn.com###WeatherTodayHistoryWC1
 ! nytimes.com
 nytimes.com##+js(json-prune, data.user)
