@@ -51,14 +51,14 @@ sachmoi.net##.code-block
 iboard.ssi.com.vn##.absolute.-top-1
 iboard.ssi.com.vn###marquee-banner
 ! subnhanh.moe
-subnhanh.moe##.abover-player
-subnhanh.moe##.navbar
-subnhanh.moe##.under-player
-subnhanh.moe##.underplayer_btn
-subnhanh.moe###footer_fixed_ads
-subnhanh.moe###overlay
-subnhanh.moe###top_addd
-subnhanh.moe###xs-addd0
+subnhanh.today##.abover-player
+subnhanh.today##.navbar
+subnhanh.today##.under-player
+subnhanh.today##.underplayer_btn
+subnhanh.today###footer_fixed_ads
+subnhanh.today###overlay
+subnhanh.today###top_addd
+subnhanh.today###xs-addd0
 ads.cdn2-img.net/logouk.png
 b52.club
 b52club.pro
