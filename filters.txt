@@ -50,7 +50,7 @@ sachmoi.net##.code-block
 ! ssi.com.vn
 iboard.ssi.com.vn##.absolute.-top-1
 iboard.ssi.com.vn###marquee-banner
-! subnhanh.moe
+! subnhanh.net
 subnhanh.today##.abover-player
 subnhanh.today##.navbar
 subnhanh.today##.under-player
