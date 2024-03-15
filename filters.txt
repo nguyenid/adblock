@@ -33,6 +33,7 @@ mpapis.xyz$media
 ! msn.com
 msn.com##.mobilePWAGuideContainer-DS-EntryPoint1-1
 msn.com##.newsContent-DS-EntryPoint1-1
+msn.com##.WeatherRightRailRoot-DS-EntryPoint1-2
 msn.com###eplantEntranceBubble
 msn.com###WeatherTodayHistoryWC1
 ! nytimes.com
