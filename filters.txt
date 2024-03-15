@@ -51,6 +51,7 @@ sachmoi.net##.code-block
 iboard.ssi.com.vn##.absolute.-top-1
 iboard.ssi.com.vn###marquee-banner
 ! subnhanh.net
+subnhanh.today##.aanetwork-ads-box
 subnhanh.today##.abover-player
 subnhanh.today##.navbar
 subnhanh.today##.under-player
