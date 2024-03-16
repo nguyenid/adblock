@@ -21,12 +21,12 @@ chinese.com.vn##.fly-text-share
 drive.google.com##.xmQMab
 ! fmoviesz.to
 fmoviesz.to##body::-webkit-scrollbar
-! motchilli.net
-motchilli.net##.block.tagcloud
-motchilli.net##.div-control
-motchilli.net##.film-note
-motchilli.net##.mp-adz
-motchilli.net##.trailer.block
+! motchill.net
+motchillaz.com##.block.tagcloud
+motchillaz.com##.div-control
+motchillaz.com##.film-note
+motchillaz.com##.mp-adz
+motchillaz.com##.trailer.block
 haivan.info$image
 haivan.top$image
 mpapis.xyz$media
