@@ -32,12 +32,13 @@ haivan.top$image
 mpapis.xyz$media
 ! motchill.app
 motchill.link##.halim-social-plugin
+motchill.link##.hidden-xs.col-md-4
 motchill.link##.letter-filter
 motchill.link##.navbar-container
 motchill.link##.primary_ribbon
 motchill.link##.rate-this
-motchill.link##.hidden-xs.col-md-4
 motchill.link##.slogan
+motchill.link##.the_tag_list
 imgur.com$image,domain=motchill.link
 ! msn.com
 msn.com##.mobileAppPromotion-DS-EntryPoint1-1
