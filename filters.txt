@@ -28,6 +28,7 @@ motchilli.tv##.div-control
 motchilli.tv##.film-note
 motchilli.tv##.logo
 motchilli.tv##.mp-adz
+motchilli.tv##.play-tags
 motchilli.tv##.right
 motchilli.tv##.suggest-dns
 motchilli.tv##.trailer.block
