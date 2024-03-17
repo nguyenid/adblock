@@ -30,6 +30,14 @@ motchilli.tv##.trailer.block
 haivan.info$image
 haivan.top$image
 mpapis.xyz$media
+! motchill.app
+motchill.link##.letter-filter
+motchill.link##.navbar-container
+motchill.link##.primary_ribbon
+motchill.link##.rate-this
+motchill.link##.hidden-xs.col-md-4
+motchill.link##.slogan
+imgur.com$image,domain=motchill.link
 ! msn.com
 msn.com##.mobileAppPromotion-DS-EntryPoint1-1
 msn.com##.mobilePWAGuideContainer-DS-EntryPoint1-1
@@ -60,11 +68,10 @@ subnhanh.today###footer_fixed_ads
 subnhanh.today###overlay
 subnhanh.today###top_addd
 subnhanh.today###xs-addd0
+@@||subnhanh.today/*.js$1p,script,redirect-rule
 ads.cdn2-img.net/logouk.png
-b52.club
+||b52.*^
 b52club.pro
-b52.mobi
-b52.vin
 hitclub.win
 raw.githubusercontent.com/jamesbondazmto/*
 tvc.biphim.club/hitclub_v2.vtt
