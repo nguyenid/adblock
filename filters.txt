@@ -31,6 +31,7 @@ haivan.info$image
 haivan.top$image
 mpapis.xyz$media
 ! motchill.app
+motchill.link##.halim-social-plugin
 motchill.link##.letter-filter
 motchill.link##.navbar-container
 motchill.link##.primary_ribbon
