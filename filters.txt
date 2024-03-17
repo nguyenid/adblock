@@ -74,6 +74,7 @@ subnhanh.today##.abover-player
 subnhanh.today##.navbar
 subnhanh.today##.under-player
 subnhanh.today##.underplayer_btn
+subnhanh.today##.w-button.button_trailer
 subnhanh.today###footer_fixed_ads
 subnhanh.today###overlay
 subnhanh.today###top_addd
