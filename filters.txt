@@ -22,11 +22,11 @@ drive.google.com##.xmQMab
 ! fmoviesz.to
 fmoviesz.to##body::-webkit-scrollbar
 ! motchill.net
-motchillaz.com##.block.tagcloud
-motchillaz.com##.div-control
-motchillaz.com##.film-note
-motchillaz.com##.mp-adz
-motchillaz.com##.trailer.block
+motchilli.tv##.block.tagcloud
+motchilli.tv##.div-control
+motchilli.tv##.film-note
+motchilli.tv##.mp-adz
+motchilli.tv##.trailer.block
 haivan.info$image
 haivan.top$image
 mpapis.xyz$media
