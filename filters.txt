@@ -22,16 +22,22 @@ drive.google.com##.xmQMab
 ! fmoviesz.to
 fmoviesz.to##body::-webkit-scrollbar
 ! motchill.net
+motchilli.tv##.btn-contact
 motchilli.tv##.block.tagcloud
 motchilli.tv##.div-control
 motchilli.tv##.film-note
+motchilli.tv##.logo
 motchilli.tv##.mp-adz
+motchilli.tv##.right
+motchilli.tv##.suggest-dns
 motchilli.tv##.trailer.block
+motchilli.tv###footer
 haivan.info$image
 haivan.top$image
 mpapis.xyz$media
 ! motchill.app
 motchill.link##.default
+motchill.link##.footer-credit
 motchill.link##.halim-social-plugin
 motchill.link##.hidden-xs.col-md-4
 motchill.link##.letter-filter
@@ -40,6 +46,7 @@ motchill.link##.primary_ribbon
 motchill.link##.rate-this
 motchill.link##.slogan
 motchill.link##.the_tag_list
+motchill.link###footer
 imgur.com$image,domain=motchill.link
 ! msn.com
 msn.com##.mobileAppPromotion-DS-EntryPoint1-1
