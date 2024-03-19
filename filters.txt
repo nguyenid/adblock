@@ -30,6 +30,8 @@ motchilli.tv##.logo
 motchilli.tv##.mp-adz
 motchilli.tv##.play-tags
 motchilli.tv##.right
+motchilli.tv##.social-icon
+motchilli.tv##.fb-like
 motchilli.tv##.suggest-dns
 motchilli.tv##.trailer.block
 motchilli.tv###footer
