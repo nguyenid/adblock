@@ -71,6 +71,9 @@ sachmoi.net##.code-block
 ! ssi.com.vn
 iboard.ssi.com.vn##.absolute.-top-1
 iboard.ssi.com.vn###marquee-banner
+! stackoverflow.com
+stackoverflow.com###credential_picker_container
+stackoverflow.com###onetrust-consent-sdk
 ! subnhanh.net
 subnhanh.today##.aanetwork-ads-box
 subnhanh.today##.abover-player
