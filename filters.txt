@@ -125,5 +125,6 @@ wetv.vip##aside.sidebar
 puui.qpic.cn/vupload/$image
 ! wikipedia.org
 wikipedia.org##.banner-container
+wikipedia.org##.vector-sitenotice-container
 ! 9to5mac.com
 9to5mac.com###safari-push-banner
