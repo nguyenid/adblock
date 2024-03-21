@@ -17,8 +17,6 @@ cafedev.vn##.td-scroll-up-visible
 cafedev.vn###divFLRALeft
 ! chinese.com.vn
 chinese.com.vn##.fly-text-share
-! google.com
-drive.google.com##.xmQMab
 ! fmoviesz.to
 fmoviesz.to##body::-webkit-scrollbar
 ! motchill.net
