@@ -36,6 +36,8 @@ motchilli.tv###footer
 haivan.info$image
 haivan.top$image
 mpapis.xyz$media
+! motchilla.net
+motchilla.net##.video-p-first
 ! motchill.app
 motchill.link##.default
 motchill.link##.footer-credit
