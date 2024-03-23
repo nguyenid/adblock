@@ -2,7 +2,7 @@
 ! Description: AdBlock Filters
 ! Released: 20240302
 ! Last modified: %timestamp%
-! Expires: 200 days
+! Expires: 100 days
 ! Homepage: https://github.com/nguyenid/adblock
 ! License: https://github.com/nguyenid/adblock/blob/main/LICENSE
 
